@@ -132,7 +132,7 @@ export default function Footer() {
           <div className="flex flex-col md:flex-row justify-between sm:gap-10 items-center space-y-4 md:space-y-0">
             {/* Copyright & Disclaimer */}
             <div className="text-xs text-gray-400 text-center md:text-left">
-              © 2025 Umbakrar Tech(India) Pvt Ltd. All rights reserved.
+              © 2025 optixdigitalai(India) Pvt Ltd. All rights reserved.
               <p className="mt-1">
                 Disclaimer: All product information is summarized from publicly
                 available sources. Please refer to issuer website for full
