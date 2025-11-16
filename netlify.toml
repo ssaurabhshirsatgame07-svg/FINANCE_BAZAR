@@ -1,0 +1,7 @@
+[build]
+base    = "apps/user"
+command = "npm install && npm run build"
+publish = "apps/user/dist"
+
+[build.environment]
+NODE_VERSION = "18"
